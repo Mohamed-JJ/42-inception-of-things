@@ -18,7 +18,7 @@ after all that is done you can either access the vm via the normal ssh method or
 # for one vm 
 vagrant ssh
 # for one from multiple vms
-vagrant ssh <hostname>
+vagrant ssh <vmname>
 ```
 
 those are the steps to make a vm with vagrant
